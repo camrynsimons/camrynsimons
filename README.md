@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camrynsimons
 - 🏫  I’m in my senior year as a computer science student at the University of Pittsburgh.
-- 💻 I have experience in coding in Java, C, Assembly language, and Python.
+- 💻 I have experience in coding in Java, C, C++, Assembly language, Python, Rust, 
 - 📚 On this profile, you can find a variety of my school and personal projects.
 - 📫 Contact: crs163@pitt.edu, croses620@gmail.com
 
