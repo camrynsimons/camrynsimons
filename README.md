@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @camrynsimons
-- 🏫  I’m in my senior year as a computer science student at the University of Pittsburgh.
+- 🏫  I’m a junior developer, incoming TDP analyst @ PNC
 - 💻 I have experience in coding in Java, C, C++, Python, and Rust
-- 📚 On this profile, you can find a variety of my school and personal projects.
-- 📫 Contact: crs163@pitt.edu, croses620@gmail.com
+- 📚 On this profile, you can find a variety of projects.
+- 📫 Contact: croses620@gmail.com
 
 <!---
 camrynsimons/camrynsimons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
